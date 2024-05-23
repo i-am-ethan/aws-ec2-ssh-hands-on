@@ -1,5 +1,7 @@
 # aws-ec2-ssh-hands-on
 
+<img src="./images/thumbnail.png" />
+
 ## 前提条件(準備しておいて欲しいこと)
 - AWSアカウントを作成していること
 - VPCを作れる状態であること
